@@ -1,0 +1,15 @@
+/Users/burmas3/CodePractices/ConsoleAppMacMemoryUsage/ConsoleAppMacMemoryUsage/bin/Debug/net5.0/ConsoleAppMacMemoryUsage.deps.json
+/Users/burmas3/CodePractices/ConsoleAppMacMemoryUsage/ConsoleAppMacMemoryUsage/bin/Debug/net5.0/ConsoleAppMacMemoryUsage.runtimeconfig.json
+/Users/burmas3/CodePractices/ConsoleAppMacMemoryUsage/ConsoleAppMacMemoryUsage/bin/Debug/net5.0/ConsoleAppMacMemoryUsage.runtimeconfig.dev.json
+/Users/burmas3/CodePractices/ConsoleAppMacMemoryUsage/ConsoleAppMacMemoryUsage/bin/Debug/net5.0/ConsoleAppMacMemoryUsage.dll
+/Users/burmas3/CodePractices/ConsoleAppMacMemoryUsage/ConsoleAppMacMemoryUsage/bin/Debug/net5.0/ref/ConsoleAppMacMemoryUsage.dll
+/Users/burmas3/CodePractices/ConsoleAppMacMemoryUsage/ConsoleAppMacMemoryUsage/bin/Debug/net5.0/ConsoleAppMacMemoryUsage.pdb
+/Users/burmas3/CodePractices/ConsoleAppMacMemoryUsage/ConsoleAppMacMemoryUsage/obj/Debug/net5.0/ConsoleAppMacMemoryUsage.csproj.AssemblyReference.cache
+/Users/burmas3/CodePractices/ConsoleAppMacMemoryUsage/ConsoleAppMacMemoryUsage/obj/Debug/net5.0/ConsoleAppMacMemoryUsage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burmas3/CodePractices/ConsoleAppMacMemoryUsage/ConsoleAppMacMemoryUsage/obj/Debug/net5.0/ConsoleAppMacMemoryUsage.AssemblyInfoInputs.cache
+/Users/burmas3/CodePractices/ConsoleAppMacMemoryUsage/ConsoleAppMacMemoryUsage/obj/Debug/net5.0/ConsoleAppMacMemoryUsage.AssemblyInfo.cs
+/Users/burmas3/CodePractices/ConsoleAppMacMemoryUsage/ConsoleAppMacMemoryUsage/obj/Debug/net5.0/ConsoleAppMacMemoryUsage.csproj.CoreCompileInputs.cache
+/Users/burmas3/CodePractices/ConsoleAppMacMemoryUsage/ConsoleAppMacMemoryUsage/obj/Debug/net5.0/ConsoleAppMacMemoryUsage.dll
+/Users/burmas3/CodePractices/ConsoleAppMacMemoryUsage/ConsoleAppMacMemoryUsage/obj/Debug/net5.0/ref/ConsoleAppMacMemoryUsage.dll
+/Users/burmas3/CodePractices/ConsoleAppMacMemoryUsage/ConsoleAppMacMemoryUsage/obj/Debug/net5.0/ConsoleAppMacMemoryUsage.pdb
+/Users/burmas3/CodePractices/ConsoleAppMacMemoryUsage/ConsoleAppMacMemoryUsage/obj/Debug/net5.0/ConsoleAppMacMemoryUsage.genruntimeconfig.cache
